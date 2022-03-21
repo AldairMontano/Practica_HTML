@@ -10,3 +10,6 @@ contacto: nombre, tel, email, descripcion del pastel, seleccion de sabores y ado
 + vizualizacion de inventario de sabores y adornos del lado del pastelero
 + Vizualizacion de los pedidos
 + la pagina debe de contar con información acerca de la pasteleria como direccion, telefono y horario de atención
+
+[pagina Web](https://aldairmontano.github.io/Practica_HTML/)
+
