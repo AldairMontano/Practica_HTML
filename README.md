@@ -11,5 +11,5 @@ contacto: nombre, tel, email, descripcion del pastel, seleccion de sabores y ado
 + Vizualizacion de los pedidos
 + la pagina debe de contar con información acerca de la pasteleria como direccion, telefono y horario de atención
 
-[pagina Web](https://aldairmontano.github.io/Practica_HTML/)
+<a href="https://aldairmontano.github.io/Practica_HTML/">Pagina web</a>
 
